@@ -1,0 +1,10 @@
+{
+  "model_name": "convnext_tiny",
+  "num_classes": 2,
+  "class_names": [
+    "Han_Bad",
+    "Han_Good"
+  ],
+  "img_size": 224,
+  "drop_rate": 0.2
+}
