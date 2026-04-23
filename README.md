@@ -1,6 +1,9 @@
 Weld Defect Detection 
 
+Class Labels:
+
 HAN_GOOD = GOOD / NO DEFECT
+
 HAN_BAD = BAD / HAS DEFECT
 
 1. Pretrained ConvNeXt tiny - finetuned with roboflow weld defect dataset containing 3000+ images
